@@ -1,0 +1,34 @@
+{
+    "Server": {
+        "Owner": "Null",
+        "Whitelist": [
+            "Icetrahan#6969",
+            "PlayerZero#2973"
+        ],
+        "Inventory": {
+            "Item1": "5",
+            "Item2": "10"
+        }
+    },
+    "Test1": {
+        "Owner": "Icetrahan#6969",
+        "Whitelist": [
+            "Icetrahan#6969",
+            "PlayerZero#2973",
+            "PlayerZero#2973",
+            "PlayerZero#2972"
+        ],
+        "Inventory": {
+            "Item1": "20",
+            "Item4": "9",
+            "Item2": "10"
+        }
+    },
+    "Icetrahan's House": {
+        "Owner": "Icetrahan#1775",
+        "Whitelist": [
+            "YourMom#1000"
+        ],
+        "Inventory": {}
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Icetrahan#1775": {
+        "ActionCh": "958584791454855188",
+        "Gold": "30",
+        "Battle": "PlayerZero#2973",
+        "Mana": "5",
+        "Cards Drawn": "0",
+        "Health": "93",
+        "Shop": "Icetrahan's House",
+        "Inventory": [
+            "Fog",
+            "Slash",
+            "Bash",
+            "Penny Shield",
+            "Wall"
+        ],
+        "Deck": [],
+        "Hand": [],
+        "TurnPile": [],
+        "DiscardPile": [
+            "Penny Shield",
+            "Slash",
+            "Bash",
+            "Wall"
+        ],
+        "DamageMult": "1",
+        "StartedTurn": "False",
+        "TurnEnded": "False"
+    },
+    "PlayerZero#2973": {
+        "ActionCh": "962762206766829678",
+        "Gold": "30",
+        "Battle": "Icetrahan#1775",
+        "Mana": "5",
+        "Cards Drawn": "0",
+        "Health": "93",
+        "Shop": "Null",
+        "Inventory": [
+            "Wall",
+            "Slash",
+            "Bash",
+            "Penny Shield",
+            "Fog"
+        ],
+        "Deck": [],
+        "Hand": [],
+        "TurnPile": [],
+        "DiscardPile": [
+            "Bash",
+            "Wall",
+            "Slash",
+            "Penny Shield"
+        ],
+        "DamageMult": "1",
+        "StartedTurn": "False",
+        "TurnEnded": "False"
+    }
+}

@@ -1,0 +1,62 @@
+{
+  "Slash":{
+    "ManaCost": "1",
+    "Damage": "8",
+    "Healing": "0",
+    "Desc":""
+  },
+  "Bash":{
+    "ManaCost": "2",
+    "Damage": "14",
+    "Healing": "0",
+    "Desc":""
+  },
+  "Papercuts":{
+    "ManaCost": "1",
+    "Damage": "2",
+    "Healing": "0",
+    "Desc":""
+  },
+  "Penny Shield":{
+    "ManaCost": "0",
+    "Damage": "0",
+    "Healing": "3",
+    "Desc":""
+  },
+  "Bulk Up":{
+    "ManaCost": "0",
+    "Damage": "0",
+    "Healing": "0",
+    "Desc":"Adds 10% to your damage multiplier"
+  },
+  "Combat Stance":{
+    "ManaCost": "0",
+    "Damage": "5",
+    "Healing": "0",
+    "Desc":""
+  },
+  "Patience":{
+    "ManaCost": "2",
+    "Damage": "0",
+    "Healing": "0",
+    "Desc":"Doubles damage for 1 turn"
+  },
+  "Fog":{
+    "ManaCost": "1",
+    "Damage": "0",
+    "Healing": "0",
+    "Desc":"Cast a fog on the field that prevents all damage this turn."
+  },
+  "Wall":{
+    "ManaCost": "2",
+    "Damage": "0",
+    "Healing": "12",
+    "Desc":""
+  },
+  "Frog":{
+    "ManaCost": "2",
+    "Damage": "5",
+    "Healing": "20",
+    "Desc":""
+  }
+}
